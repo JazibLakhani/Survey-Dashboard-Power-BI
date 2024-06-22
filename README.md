@@ -32,5 +32,6 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 
 For any questions or support, please contact on jaziblakhani4@gmail.com.
 
-![image](https://github.com/JazibLakhani/Survey-Dashboard-Power-BI/assets/163766204/273f1a53-0f21-44a7-8aa2-02cbca5be43c)
+![image](https://github.com/JazibLakhani/Survey-Dashboard-Power-BI/assets/163766204/a7218ad4-6aaa-4033-9036-b13284a033ba)
+
 
